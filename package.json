@@ -1,0 +1,28 @@
+{
+  "name": "express-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index",
+    "dev": " nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajithshanth/express-mongo.git"
+  },
+  "author": "AjithShanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajithshanth/express-mongo/issues"
+  },
+  "homepage": "https://github.com/Ajithshanth/express-mongo#readme",
+  "dependencies": {
+    "date-fns": "^2.29.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
