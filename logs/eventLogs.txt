@@ -1,0 +1,2 @@
+2022-09-02	03:07:59PM	2fd11fb3-fb63-4463-b038-cf7af9b5c104	Log Event Emitted!
+2022-09-02	03:08:01PM	b7c17141-d188-4dff-89f5-0ce0dc1e8544	Log Event Emitted!
