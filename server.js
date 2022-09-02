@@ -1,6 +1,0 @@
- const {add,subtract,multiply,divide, sumOf} = require('./math')
-console.log(add(4,5))
-console.log(subtract(4,5))
-console.log(multiply(4,5))
-console.log(divide(4,5))
-console.log(sumOf([1,2,3,4,5,6,7,8,9]))
